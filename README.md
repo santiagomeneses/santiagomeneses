@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Santiago Meneses (@santiagomeneses)
+- I’m a biologist, soon to be PhD 👨🏻‍🎓, interested in the ecology and social structures of ants 🐜.
+- 🔬 I’m currently investigating the nutritional strategies of Aphaenogaster ants.
+- 🤝 I’m looking to collaborate on creating vizzes and ML implementation in ecological and behavioral data.
+- 📫 Shoot me a message at santiamen@gmail.com or smeneses@gwmail.gwu.edu
+- 🦜 @antneurobio
